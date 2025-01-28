@@ -1,2 +1,4 @@
-# hello_world
-this is my first repo
+### Tian Nong 
+## my first repo
+
+hell yeah 
